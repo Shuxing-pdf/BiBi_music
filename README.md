@@ -19,9 +19,9 @@
 ![mid位置](https://i.imgur.com/h8EVJxH.png)
 
 
-2.运行_Fav___getlist.py_，按程序要求依次输入目标账号mid、目标收藏夹（支持模糊查找与重复导出检测）。
+2.运行`Fav_getlist.py`，按程序要求依次输入目标账号mid、目标收藏夹（支持模糊查找与重复导出检测）。
 
-3.程序运行结束后，会在_Fav___getlist.py_所在目录下生成对应JSON文件。
+3.程序运行结束后，会在`Fav_getlist.py`所在目录下生成对应JSON文件。
 
 ## 输出格式
 
@@ -52,4 +52,5 @@
 ## 鸣谢
 
  感谢[阿炸克斯](https://github.com/lvyueyang  "你们的存在，让社区更美好")提供的[哔哔音乐歌单云同步详细教程](https://juejin.cn/post/7428849498019053587 "如何使用哔哔音乐的歌单云同步功能")以及 [SocialSisterYi](https://github.com/SocialSisterYi/bilibili-API-collect "你们的存在，让社区更美好") 整理的[B 站接口文档](https://github.com/SocialSisterYi/bilibili-API-collect) 。
+
 
